@@ -10,6 +10,8 @@ hash supporte
 -SHA512
 
 entre le string puis il les converti en different puis il affiche et peut sauvegarder dans un fichier
+]
+[Verdion 0.2 ](https://github.com/webislands/MultiHash-Console/releases/tag/v1.0.0)
 
 [menu]
 ![Alt text](https://github.com/webislands/MultiHash-Console/raw/master/screenshot/Capture1.PNG?raw=true "Menu principal")
