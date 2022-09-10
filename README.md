@@ -11,5 +11,11 @@ hash supporte
 
 entre le string puis il les converti en different puis il affiche et peut sauvegarder dans un fichier
 
-Menu
+[menu]
 ![Alt text](https://github.com/webislands/MultiHash-Console/raw/master/screenshot/Capture1.PNG?raw=true "Menu principal")
+[String]
+![Alt text](https://github.com/webislands/MultiHash-Console/raw/master/screenshot/Capture2.PNG?raw=true "STRING")
+[Resultat]
+![Alt text](https://github.com/webislands/MultiHash-Console/raw/master/screenshot/Capture3PNG?raw=true "STRING")
+[Sauvegarde]
+![Alt text](https://github.com/webislands/MultiHash-Console/raw/master/screenshot/Capture4PNG?raw=true "STRING")
