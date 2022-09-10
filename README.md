@@ -18,4 +18,4 @@ entre le string puis il les converti en different puis il affiche et peut sauveg
 [Resultat]
 ![Alt text](https://github.com/webislands/MultiHash-Console/raw/master/screenshot/Capture3.PNG?raw=true "Resultat")
 [Sauvegarde]
-![Alt text](https://github.com/webislands/MultiHash-Console/raw/master/screenshot/Capture4PNG?raw=true "Sauvegarde")
+![Alt text](https://github.com/webislands/MultiHash-Console/raw/master/screenshot/Capture4.PNG?raw=true "Sauvegarde")
