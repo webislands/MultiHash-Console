@@ -75,7 +75,7 @@ namespace MultiHash
                 Console.WriteLine("#####################");
                 Console.Write("# ");
                 Console.ForegroundColor = ConsoleColor.DarkYellow;
-                Console.Write("Hash String  v0.1");
+                Console.Write("Hash String  v0.2");
                 Console.ForegroundColor = ConsoleColor.DarkGreen;
                 Console.WriteLine(" #");
                 Console.WriteLine("#####################");
